@@ -11,7 +11,7 @@ place in django-beanstalkd and don't unnecessarily clog your application code.
 This library is based in large part on Fred Wenzel's [django-gearman][django-gearman].
 If you're looking for synchronous execution of jobs, check out [Gearman][gearman]
 and Fred's library! Beanstalkd is useful for background processes only.
-
+this is new!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 [beanstalkd]: http://kr.github.com/beanstalkd/
 [beanstalkc]: http://github.com/earl/beanstalkc/
 [django-gearman]: http://github.com/fwenzel/django-gearman
